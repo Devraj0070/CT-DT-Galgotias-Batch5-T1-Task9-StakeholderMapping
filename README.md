@@ -82,4 +82,4 @@ The successful implementation of 360-Degree Digitalization of Bank Services requ
 
 ## Lucidchart Stakeholder Map
 
-**Lucidchart Link:** `https://lucid.app/lucidchart/72766244-180a-45d7-b079-6016f7288f80/edit?viewport_loc=-4%2C-96%2C1525%2C734%2C0_0&invitationId=inv_8c5bc292-24de-496a-8eb1-8cf94e468338`
+**Lucidchart Link:** https://lucid.app/lucidchart/72766244-180a-45d7-b079-6016f7288f80/edit?viewport_loc=-4%2C-96%2C1525%2C734%2C0_0&invitationId=inv_8c5bc292-24de-496a-8eb1-8cf94e468338
